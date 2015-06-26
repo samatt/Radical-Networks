@@ -1,14 +1,17 @@
 #Links and References
 
-Links nad refrences from OCR Friday talk.
 
-[SDR Primer](https://github.com/samatt/ArtSec-SDR)
+[SDR 101](https://github.com/samatt/SDR-101) :  A primer for working with Software Defined Radios (SDR)
 
 [Libtins](http://libtins.github.io/) : C++ networking framework
 
 [Tracking FBI Spy Planes](https://storify.com/jjwiseman/tracking-fbi-aerial-surveillance)
 [Frequensea](https://github.com/fdb/frequensea) Awesome tool for visualising the RF spectrum.
 
+
+[Antenna Fundamentals](https://www.youtube.com/watch?v=7bDyA5t1ldU) AMAZING Antenna Video Series fromt he 1950s by the National Film Board of Canada
+
+[UHF Pirates](http://www.radiohobbyist.org/blog/?p=913) : Pretty crazy
 
 ##Wi-Fi
 ---
@@ -35,3 +38,8 @@ Links nad refrences from OCR Friday talk.
 ---
 
 [NTSC Slide Show](https://github.com/samatt/WAHD-TV): Art Hackday Project with Jonathan Dahan that uses a HackRF to transmit pngs over NTSC.
+
+##
+
+---
+[Satellite Receiing Station tutorial](http://blog.carpcomm.com/2013/03/how-to-build-satellite-receiving.html)
